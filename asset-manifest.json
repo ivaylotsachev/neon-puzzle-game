@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neon-puzzle-game/static/css/main.d8817dac.chunk.css",
+    "main.js": "/neon-puzzle-game/static/js/main.61cb9df8.chunk.js",
+    "main.js.map": "/neon-puzzle-game/static/js/main.61cb9df8.chunk.js.map",
+    "runtime~main.js": "/neon-puzzle-game/static/js/runtime~main.bced1016.js",
+    "runtime~main.js.map": "/neon-puzzle-game/static/js/runtime~main.bced1016.js.map",
+    "static/js/2.63a3d80a.chunk.js": "/neon-puzzle-game/static/js/2.63a3d80a.chunk.js",
+    "static/js/2.63a3d80a.chunk.js.map": "/neon-puzzle-game/static/js/2.63a3d80a.chunk.js.map",
+    "index.html": "/neon-puzzle-game/index.html",
+    "precache-manifest.379702e7dd7c125012921c0caafc078f.js": "/neon-puzzle-game/precache-manifest.379702e7dd7c125012921c0caafc078f.js",
+    "service-worker.js": "/neon-puzzle-game/service-worker.js",
+    "static/css/main.d8817dac.chunk.css.map": "/neon-puzzle-game/static/css/main.d8817dac.chunk.css.map"
+  }
+}
