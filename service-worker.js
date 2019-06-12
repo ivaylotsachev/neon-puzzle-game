@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neon-puzzle-game/precache-manifest.379702e7dd7c125012921c0caafc078f.js"
+  "/neon-puzzle-game/precache-manifest.4563ceab9dc16079c1093dc4dcca9afd.js"
 );
 
 self.addEventListener('message', (event) => {
