@@ -1,0 +1,14 @@
+.Cell {
+  padding: 1.5em;
+  background-color: #263e8d;
+  color: white;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.Lit {
+  background: #fcc100;
+  color: white;
+  box-shadow: inset 5px 5px 7px rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,36 @@
+.Rules {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  background: rgb(13, 13, 43);
+  padding: 20px;
+  opacity: 1;
+  transition: opacity 0.3s;
+  pointer-events: all;
+}
+
+.Rules.hidden {
+  height: 0;
+  opacity: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.Rules_title {
+  font-size: 5vw;
+  margin-bottom: 50px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.Rules_text {
+  max-width: 600px;
+  opacity: 0.5;
+  margin: 10px 0;
+}
