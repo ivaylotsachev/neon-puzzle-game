@@ -5,8 +5,8 @@ const Rules = props => (
   <div className={props.show ? "Rules" : "Rules hidden"}>
     <h1 className="Rules_title">Game Rules</h1>
     <p className="Rules_text">
-      <span>Lights Out</span>
-      is a logic/puzzle game, played on a grid on individual lights, witch can
+      <span>Lights Out </span>
+      is a logic/puzzle game, played on a grid of individual lights, witch can
       either be a lit ot unlit.
     </p>
     <p className="Rules_text">
