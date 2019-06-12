@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "901ddd2f85c9f002e7f4de5070957252",
+    "revision": "7cf84298a706aadf8433e7ae58586128",
     "url": "/neon-puzzle-game/index.html"
   },
   {
-    "revision": "78f59c0d93d15f9e9096",
+    "revision": "a207c8bbd26d2213c2a7",
     "url": "/neon-puzzle-game/static/css/main.d8817dac.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neon-puzzle-game/static/js/2.63a3d80a.chunk.js"
   },
   {
-    "revision": "78f59c0d93d15f9e9096",
-    "url": "/neon-puzzle-game/static/js/main.61cb9df8.chunk.js"
+    "revision": "a207c8bbd26d2213c2a7",
+    "url": "/neon-puzzle-game/static/js/main.6f9dff05.chunk.js"
   },
   {
     "revision": "4feb37f2f02bd8bbb307",
